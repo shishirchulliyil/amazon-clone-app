@@ -28,4 +28,4 @@ This project is a simplified front end clone of Amazon. It was created with Reac
 
 ### Video Walktrough
 
-![](https://github.com/AndresXI/Netflix-Clone/blob/master/netflix-demo.gif?raw=true)
+![](https://github.com/shishirchulliyil/amazon-clone-app/blob/local/amazon-clone-demo.gif?raw=true)
