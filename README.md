@@ -14,8 +14,6 @@ This project is a simplified front end clone of Amazon. It was created with Reac
 ### Runing Project Locally
 
 - Install dependencies: run `npm install` in root project
-- Get API key from [here](https://www.themoviedb.org/documentation/api)
-- Create .env file in root project and add: `REACT_APP_API_KEY=YOUR_API_KEY_HERE`
 - Run project: `npm run dev`
 
 ### User Stories:
